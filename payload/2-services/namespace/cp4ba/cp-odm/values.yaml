@@ -1,0 +1,15 @@
+"cp4ba":
+  "db_server": "161.202.168.37"
+  "namespace": "cp4ba"
+  "odm_db_name": "odmdb"
+  "odm_db_port": "50000"
+  "odm_db_type": "db2"
+  "odm_image_repository": "cp.icr.io/cp/cp4a/odm"
+  "odm_image_tag": "21.0.3-IF009"
+  "odm_image_version": "21.0.3"
+  "storageclass_block": "ibmc-vpc-block-10iops-tier"
+  "storageclass_fast": "ocs-storagecluster-cephfs"
+  "storageclass_medium": "ocs-storagecluster-cephfs"
+  "storageclass_slow": "ocs-storagecluster-cephfs"
+"values_file": "values-default.yaml"
+
